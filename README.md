@@ -1,5 +1,5 @@
 
-# Smart AI Chatbot
+## Smart AI Chatbot
 
 An intelligent AI-powered chatbot built using Python, Streamlit, Ollama, and SQLite. It provides natural conversations, remembers user information across different chats, and maintains separate conversation histories.
 
@@ -65,4 +65,5 @@ Working Demo
 <img width="1522" height="822" alt="Screenshot 2026-11-06 141825" src="https://github.com/user-attachments/assets/e6fd4eae-fcfa-4354-b94f-2ae828ee8077" />
 
 ### Conclusion
+
 The Smart AI Chatbot successfully combines AI, Python, and SQLite to provide intelligent conversations with short-term and long-term memory. This project demonstrates the practical use of AI models, memory management, and database integration to create an interactive chatbot.
